@@ -1,0 +1,8 @@
+{
+  "name": "repairvsreplace",
+  "version": "0.1.0",
+  "description": "Compare a repair quote against a new-item price on cost per remaining service year",
+  "license": "MIT",
+  "repository": "https://github.com/scrapertweeter3-prog/repairvsreplace",
+  "homepage": "https://www.durablepicks.com"
+}
